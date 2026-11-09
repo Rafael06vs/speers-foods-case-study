@@ -1,0 +1,562 @@
+[
+  {
+    "id": "DEMO-001",
+    "name": "PAO CLASS BRIOCHE 120P 7,700 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO CLASS BRIOCHE 120P 7,700 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-002",
+    "name": "PAO CLASS BRIOCHE 15P BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO CLASS BRIOCHE 15P BIMBO.png"
+  },
+  {
+    "id": "DEMO-003",
+    "name": "PAO CLASSICO AUST. 15P BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO CLASSICO AUST. 15P BIMBO.png"
+  },
+  {
+    "id": "DEMO-004",
+    "name": "PAO CLASSICO AUST. 60P 3,800 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO CLASSICO AUST. 60P 3,800 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-005",
+    "name": "PAO HB SMART 15P  BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO HB SMART 15P  BIMBO.png"
+  },
+  {
+    "id": "DEMO-006",
+    "name": "PAO HB SMART 270P 13,500 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO HB SMART 270P 13,500 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-007",
+    "name": "PAO HB SMART C/GERG. 15P BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO HB SMART CGERG. 15P BIMBO.png"
+  },
+  {
+    "id": "DEMO-008",
+    "name": "PAO HB SMART C/GERG.270P 13,500 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO HB SMART CGERG.270P 13,500 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-009",
+    "name": "PAO HOT DOG 96P 6,000 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO HOT DOG 96P 6,000 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-010",
+    "name": "PAO MAX BRIOCHE 72P 6,100 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO MAX BRIOCHE 72P 6,100 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-011",
+    "name": "PAO MINI HB BRIOCHE 192P 5,600 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO MINI HB BRIOCHE 192P 5,600 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-012",
+    "name": "PAO MINI HB BRIOCHE 24P  BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO MINI HB BRIOCHE 24P BIMBO.png"
+  },
+  {
+    "id": "DEMO-013",
+    "name": "PAO NUVEM 270P 13,500 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO NUVEM 270P 13,500 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-014",
+    "name": "PAO TRAD. 192P 14,400 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO TRAD. 192P 14,400 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-015",
+    "name": "PAO TRAD. C/DUPLO 15P  BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO TRAD. CDUPLO 15P BIMBO.png"
+  },
+  {
+    "id": "DEMO-016",
+    "name": "PAO TRAD. C/DUPLO 180P 13,100 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO TRAD. CDUPLO 180P 13,100 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-017",
+    "name": "PAO TRAD. C/GERG. 12P BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "PCT",
+    "available": true,
+    "image": "/PAO TRAD. CGERG. 12P BIMBO.png"
+  },
+  {
+    "id": "DEMO-018",
+    "name": "PAO TRAD. C/GERG. 192P 14,400 KG  BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PAO TRAD. CGERG. 192P 14,400 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-019",
+    "name": "PROM PAO CLASS BRIO. 120P 7,700 KG BIMBO",
+    "brand": "BIMBO DO BRASIL",
+    "unit": "CX",
+    "available": true,
+    "image": "/PROM PAO CLASS BRIO. 120P 7,700 KG BIMBO.png"
+  },
+  {
+    "id": "DEMO-020",
+    "name": "FUTURO ALMONDEGA 0,275 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "UN",
+    "available": true,
+    "image": "/FUTURO ALMONDEGA 15 X 0,275  F. FUTURO.webp"
+  },
+  {
+    "id": "DEMO-021",
+    "name": "FUTURO ALMONDEGA 15 X 0,275  F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO ALMONDEGA BOX 6 X 0,800 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-022",
+    "name": "FUTURO ATUM 15 X 0,150 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO ATUM 15 X 0,150 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-023",
+    "name": "FUTURO BURGER 0,112 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "UN",
+    "available": true,
+    "image": "/FUTURO BURGER 40 X 0,112 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-024",
+    "name": "FUTURO BURGER 0,230 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "UN",
+    "available": true,
+    "image": "/FUTURO BURGER DEF. 15X 0,230 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-025",
+    "name": "FUTURO BURGER 12 X 0,336 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO BURGER 12 X 0,336 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-026",
+    "name": "FUTURO BURGER DEF. 0,230 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "UN",
+    "available": true,
+    "image": "/FUTURO BURGER 15 X 0,230 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-027",
+    "name": "FUTURO CARNE MOIDA 0,270 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "UN",
+    "available": true,
+    "image": "/FUTURO CARNE MOIDA 15 X 0,270 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-028",
+    "name": "FUTURO FRANGO 15 X 0,200 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO FRANGO 15 X 0,200 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-029",
+    "name": "FUTURO FRANGUITO 14 X 0,240 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO FRANGUITO 14 X 0,240 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-030",
+    "name": "FUTURO KIBE 14 X 0,240  F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO KIBE 14 X 0,240  F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-031",
+    "name": "FUTURO LINGUICA 15 X 0,250 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO LINGUICA 15 X 0,250 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-032",
+    "name": "FUTURO LINGUICA APIM. 15X0,250 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO LINGUICA APIM. 15X0,250 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-033",
+    "name": "FUTURO LINGUICA DEF. 15 X0,250 F. FUTURO",
+    "brand": "FAZENDA FUTURO PRODUTOS ALIMENTICIOS SA",
+    "unit": "CX",
+    "available": true,
+    "image": "/FUTURO LINGUICA DEF. 15 X0,250 F. FUTURO.jpg"
+  },
+  {
+    "id": "DEMO-034",
+    "name": "BISCOITO QUEIJO 6 X 1,000  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/BISCOITO QUEIJO 6 X 1,000  FM.jpg"
+  },
+  {
+    "id": "DEMO-035",
+    "name": "CHIPA CRU 8 X 0,800 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/CHIPA CRU 8 X 0,800 FM.png"
+  },
+  {
+    "id": "DEMO-036",
+    "name": "COOKIE BAUNILHA C/GOTAS 3 X 1,000 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/COOKIE BAUNILHA  3 X 1,000 FM.webp"
+  },
+  {
+    "id": "DEMO-037",
+    "name": "COOKIE CHOCOLATE C/GOTAS 3 X 1,000 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/COOKIE CHOCOLATE  3 X 1,000 FM.jpg"
+  },
+  {
+    "id": "DEMO-038",
+    "name": "COXINHA FRITA C/REQUEIJAO 6 X 1,320 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/COXINHA FRITA CREQUEIJAO 6 X 1,320 FM.webp"
+  },
+  {
+    "id": "DEMO-039",
+    "name": "CROISSANT CRU AMANTEIGADO 45 X 0,080 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/CROISSANT CRU  AMANTEIGADO 0,080 FM.jpg"
+  },
+  {
+    "id": "DEMO-040",
+    "name": "EMPADA FRANGO C/REQUEIJAO 36 X 0,090 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/EMPADA FRANGO REQUEIJAO 36 X 0,090 FM.jpg"
+  },
+  {
+    "id": "DEMO-041",
+    "name": "FLAUTA DOCE CHOC.C/AVELA 60 X 0,070 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FLAUTA DOCE CHOC.C.AVELA 60 X 0,070 FM.jpg"
+  },
+  {
+    "id": "DEMO-042",
+    "name": "FLAUTA DOCE CREME 60 X 0,070 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FLAUTA DOCE CREME 60 X 0,070 FM.jpg"
+  },
+  {
+    "id": "DEMO-043",
+    "name": "FOLHADO BANANA C/CANELA 3 X 0,960  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO BANANA CCANELA 3 X 0,960  FM.jpg"
+  },
+  {
+    "id": "DEMO-044",
+    "name": "FOLHADO FRANGO 3 X 0,960  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO FRANGO 3 X 1,080 FM.jpg"
+  },
+  {
+    "id": "DEMO-045",
+    "name": "FOLHADO PERU C/MULTIGRAOS 3 X 1,080 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO PERU C.MULTIGRAOS 3 X 1,080 FM.jpg"
+  },
+  {
+    "id": "DEMO-046",
+    "name": "FOLHADO PERU C/Q.BRANCO 3 X 0,960  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO PERU C.Q.BRANCO 3 X 0,960  FM.jpg"
+  },
+  {
+    "id": "DEMO-047",
+    "name": "FOLHADO PERU C/Q.BRANCO 3 X 1,080 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO PERU C.Q.BRANCO 3 X 1,080 FM.jpg"
+  },
+  {
+    "id": "DEMO-048",
+    "name": "FOLHADO PRESUNTO C/QUEIJO 3 X 0,960  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO PRESUNTO C.QUEIJO 3 X 0,960  FM.jpg"
+  },
+  {
+    "id": "DEMO-049",
+    "name": "FOLHADO PRESUNTO C/QUEIJO 3 X 1,080 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/FOLHADO PRESUNTO C.QUEIJO 3 X 1,080 FM.jpg"
+  },
+  {
+    "id": "DEMO-050",
+    "name": "LASANHA A BOLONHESA 6 X 0,600 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/LASANHA A BOLONHESA 6 X 0,600 FM.png"
+  },
+  {
+    "id": "DEMO-051",
+    "name": "PQ ASSADO COQUETEL 6 X 0,500  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ ASSADO COQUETEL 6 X 0,500  FM.webp"
+  },
+  {
+    "id": "DEMO-052",
+    "name": "PQ ASSADO LANCHE RECHEADO 12 X 0,540 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ ASSADO LANCHE RECHEADO 12 X 0,540 FM.webp"
+  },
+  {
+    "id": "DEMO-053",
+    "name": "PQ ASSADO MAX LANCHE 12X 0,560 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ ASSADO MAX LANCHE 12X 0,560 FM.webp"
+  },
+  {
+    "id": "DEMO-054",
+    "name": "PQ ASSADO SUPER LANCHE 12 X 0,560 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ ASSADO SUPER LANCHE 12 X 0,560 FM.jpg"
+  },
+  {
+    "id": "DEMO-055",
+    "name": "PQ ASSADO WAFFLE  9 X 0,400 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ ASSADO WAFFLE  9 X 0,400 FM.webp"
+  },
+  {
+    "id": "DEMO-056",
+    "name": "PQ BIG LANCHE 6 X 1,530  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ BIG LANCHE 6 X 1,530  FM.webp"
+  },
+  {
+    "id": "DEMO-057",
+    "name": "PQ COQUETEL 10 X 1,000  FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ COQUETEL 10 X 1,000  FM.webp"
+  },
+  {
+    "id": "DEMO-058",
+    "name": "PQ MAX LANCHE 10 X 1,000 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ MAX LANCHE 10 X 1,000 FM.webp"
+  },
+  {
+    "id": "DEMO-059",
+    "name": "PQ SUPER LANCHE 10 X 1,000 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ SUPER LANCHE 10 X 1,000 FM.webp"
+  },
+  {
+    "id": "DEMO-060",
+    "name": "PQ TRAD. 10 X 1,000 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/PQ TRAD. 10 X 1,000 FM.webp"
+  },
+  {
+    "id": "DEMO-061",
+    "name": "TORTA FRANGO C/REQUEIJAO 18 X 0,180 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/TORTA FRANGO C.REQUEIJAO 18 X 0,180 FM.png"
+  },
+  {
+    "id": "DEMO-062",
+    "name": "WAFFLE DOCE  TRAD. 6 X 0,525 FM",
+    "brand": "FORNO DE MINAS ALIMENTOS S/A",
+    "unit": "CX",
+    "available": true,
+    "image": "/WAFFLE DOCE  TRAD. 6 X 0,525 FM.webp"
+  },
+  {
+    "id": "DEMO-063",
+    "name": "ACAI BANANA 6 X 0,700 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI BANANA 6 X 0,700 FROOTY.png"
+  },
+  {
+    "id": "DEMO-064",
+    "name": "ACAI BANANA 9 X 1,500 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI BANANA 9 X 1,500 FROOTY.png"
+  },
+  {
+    "id": "DEMO-065",
+    "name": "ACAI BANANA C/GRAN.12 X 0,200 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI BANANA CGRAN.12 X 0,200 FROOTY.png"
+  },
+  {
+    "id": "DEMO-066",
+    "name": "ACAI CREMOSO 1 X 3,600 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI CREMOSO 1 X 3,600 FROOTY.png"
+  },
+  {
+    "id": "DEMO-067",
+    "name": "ACAI CREMOSO 12 X 0,500 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI CREMOSO 12 X 0,500 FROOTY.png"
+  },
+  {
+    "id": "DEMO-068",
+    "name": "ACAI CREMOSO 9 X 1,500 FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI CREMOSO 9 X 1,500 FROOTY.png"
+  },
+  {
+    "id": "DEMO-069",
+    "name": "ACAI CUPUACU 9 X 1,500  FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "CX",
+    "available": true,
+    "image": "/ACAI CUPUACU 9 X 1,500 FROOTY.png"
+  },
+  {
+    "id": "DEMO-070",
+    "name": "ACAI ORIG. 1 X 3,600  FROOTY",
+    "brand": "FROOTY COMERCIO E INDUSTRIA DE ALIMENTOS S.A.",
+    "unit": "BD",
+    "available": true,
+    "image": "/ACAI ORIG. 1 X 3,600 FROOTY.png"
+  }
+]
